@@ -3,12 +3,18 @@
  * @return {void} Do not return anything, modify nums in-place instead.
  */
 var moveZeroes = function(nums) {
-  insertpos=0
+   insertpos=0
   for(let i=0;i<nums.length;i++){
-    if(nums[i]!==0){
-      [nums[insertpos],nums[i]]=[nums[i],nums[insertpos]]
+    if(nums[i]===0){
+      continue
+    }else{
+      nums[insertpos]=nums[i]
       insertpos++
     }
   }
+  while (insertpos < nums.length) {
+    nums[insertpos] = 0;
+    insertpos++;
+}
   return nums
 };
