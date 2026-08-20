@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/mohammed-42/leetcode/tree/master/0283-move-zeroes) |
 | [0875-koko-eating-bananas](https://github.com/mohammed-42/leetcode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/mohammed-42/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/mohammed-42/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -58,4 +59,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/mohammed-42/leetcode/tree/master/0035-search-insert-position) |
 | [0875-koko-eating-bananas](https://github.com/mohammed-42/leetcode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/mohammed-42/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/mohammed-42/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 <!---LeetCode Topics End-->
