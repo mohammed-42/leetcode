@@ -6,7 +6,7 @@
  */
 var minDays = function(bloomDay, m, k) {
     function max(bloomDay){
-let largest=0
+   let largest=0
 for(let i=0;i<bloomDay.length;i++){
   if(bloomDay[i]>largest){
     largest=bloomDay[i]
