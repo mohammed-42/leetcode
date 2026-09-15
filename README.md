@@ -39,10 +39,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/mohammed-42/leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/mohammed-42/leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/mohammed-42/leetcode/tree/master/0217-contains-duplicate) |
+| [0387-first-unique-character-in-a-string](https://github.com/mohammed-42/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## String
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/mohammed-42/leetcode/tree/master/0049-group-anagrams) |
+| [0387-first-unique-character-in-a-string](https://github.com/mohammed-42/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -71,4 +73,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/mohammed-42/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/mohammed-42/leetcode/tree/master/0643-maximum-average-subarray-i) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/mohammed-42/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/mohammed-42/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
